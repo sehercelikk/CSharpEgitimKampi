@@ -1,9 +1,9 @@
 # ASP.NET Framework Windows Form Uygulamaları
 
 Bu proje,Murat YÜCEDAĞ hocamızın [C# Eğitim Kampı](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr)  kapsamında geliştirilmiş örnek bir WindowsForms uygulamasıdır. Projede katmanlı mimari yaklaşımının yanı sıra 
-Sql Server, Dapper, MongoDb ve PostgreSQL veri tabanları kullanılarak bir CRUD sistemi ve yönetim paneli oluşturulmuştur.
+Sql Server, Dapper, MongoDb ve PostgreSQL veri tabanları kullanılarak bir CRUD işlemleri ve yönetim paneli oluşturulmuştur.
 
-## 🚀 Proje Özellikleri
+## 🚀 Proje Özellikleris
 
 - ASP.NET Framework ile geliştirilmiş web uygulaması
 - Katmanlı mimari:
